@@ -1,2 +1,1 @@
-
-$${\colour {RED}i'm \ suffering}$$
+$${\color{RED} im\ suffering}$$
